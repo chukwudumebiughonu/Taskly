@@ -19,3 +19,5 @@ Select yes for React Server Component
 Select yes for for components.json
 
 Add button with commmand: npx shadcn-ui@latest add button
+
+Authentiacation with next: npm install @clerk/nextjs
