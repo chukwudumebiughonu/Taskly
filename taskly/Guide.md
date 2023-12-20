@@ -21,3 +21,10 @@ Select yes for for components.json
 Add button with commmand: npx shadcn-ui@latest add button
 
 Authentiacation with next: npm install @clerk/nextjs
+
+Install usehooks-ts with this command: npm i usehooks-ts
+
+Inshall skeleton from shadcn-ui with this command: npx shadcn-ui@latest add skeleton
+Inshall accordion from shadcn-ui with this command: npx shadcn-ui@latest add accordion
+
+Install separator with this command: npx shadcn-ui@latest add separator
