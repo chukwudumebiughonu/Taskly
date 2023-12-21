@@ -28,3 +28,21 @@ Inshall skeleton from shadcn-ui with this command: npx shadcn-ui@latest add skel
 Inshall accordion from shadcn-ui with this command: npx shadcn-ui@latest add accordion
 
 Install separator with this command: npx shadcn-ui@latest add separator
+
+Install zustand for mobile navbar interaction with this command: npm i zustand
+
+Install sheet component with this command: npx shadcn-ui@latest add sheet
+
+install prisma with this command: npm i -D prisma
+
+Run the following command after installing prisma: npx prisma init
+
+Run: npx prisma generate. This is to be done when a new model is added or a model is modified.
+
+Run: npx prisma db push
+
+Run: npm i @prisma/client
+
+Use clerk for authentication
+Use Prisma for database 
+Use PlanetScale for database, mysql database
