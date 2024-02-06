@@ -43,6 +43,11 @@ Run: npx prisma db push
 
 Run: npm i @prisma/client
 
+Run: npx prisma studio to show the ui for our database
+
+Install zod with: npm i zod
+
+Install input from shadcn-ui with the command: npx shadcn-ui@latest add input
 Use clerk for authentication
 Use Prisma for database 
 Use PlanetScale for database, mysql database
