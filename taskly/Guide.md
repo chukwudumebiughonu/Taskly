@@ -20,12 +20,17 @@ Select yes for for components.json
 
 Add button with commmand: npx shadcn-ui@latest add button
 
+create an account with clerk 
+createa a project with clerk
+copy the appropriate .env key and put it in the .env file
+install clerk
 Authentiacation with next: npm install @clerk/nextjs
-
+create a layout in the place to use the clerk `<ClerkProvider>` as a wrapper create the appropriate clerk folder for the sign up etc.
+create a mddleware file and add the middlewar information
 Install usehooks-ts with this command: npm i usehooks-ts
 
-Inshall skeleton from shadcn-ui with this command: npx shadcn-ui@latest add skeleton
-Inshall accordion from shadcn-ui with this command: npx shadcn-ui@latest add accordion
+Install skeleton from shadcn-ui with this command: npx shadcn-ui@latest add skeleton
+Install accordion from shadcn-ui with this command: npx shadcn-ui@latest add accordion
 
 Install separator with this command: npx shadcn-ui@latest add separator
 
@@ -51,3 +56,5 @@ Install input from shadcn-ui with the command: npx shadcn-ui@latest add input
 Use clerk for authentication
 Use Prisma for database 
 Use PlanetScale for database, mysql database
+
+Install shadcn-ui label with : npx shadcn-ui@latest add label
