@@ -58,3 +58,24 @@ Use Prisma for database
 Use PlanetScale for database, mysql database
 
 Install shadcn-ui label with : npx shadcn-ui@latest add label
+
+Install tooltip with : npx shadcn-ui@latest add tooltip
+
+Install popover with : npx shadcn-ui@latest add popover
+
+Install sonner with : npm i sonner
+
+Using unsplash : Unsplash.com/developers
+
+Install unsplash with : npm i unsplash-js
+
+Reset the database with : npx prisma migrate reset
+
+Update database with : np
+x prisma db push,
+npx prisma generate
+
+install lodash  whth: npm i lodash
+Intall lodash type with: npm i -D @types/lodash
+
+install textarea with : npm shadcn-ui@latest add textarea
