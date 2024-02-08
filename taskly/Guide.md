@@ -79,3 +79,5 @@ install lodash  whth: npm i lodash
 Intall lodash type with: npm i -D @types/lodash
 
 install textarea with : npm shadcn-ui@latest add textarea
+
+install drag and drop with : npm i @hello-pangea/dnd

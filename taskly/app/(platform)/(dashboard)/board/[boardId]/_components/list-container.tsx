@@ -174,6 +174,6 @@ export const ListContainer = ({
           </ol>
         )}
       </Droppable>
-    </DragDropContext>
+    </DragDropContext> 
   );
 };
