@@ -85,3 +85,7 @@ install drag and drop with : npm i @hello-pangea/dnd
 Add dialog with: npx shadcn-ui@latest add dialog 
 
 Add react tanstack query for api calls with : npm i @tanstack/react-query
+
+Add avatar with : npx shadcn-ui@latest add avatar
+
+Add dependencies that states when a feature was created with: npm i date-fns
