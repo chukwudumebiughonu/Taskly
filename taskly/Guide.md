@@ -81,3 +81,7 @@ Intall lodash type with: npm i -D @types/lodash
 install textarea with : npm shadcn-ui@latest add textarea
 
 install drag and drop with : npm i @hello-pangea/dnd
+
+Add dialog with: npx shadcn-ui@latest add dialog 
+
+Add react tanstack query for api calls with : npm i @tanstack/react-query
